@@ -1,0 +1,17 @@
+﻿{
+  "Frame": ".ms-dlgFrame",
+  "New": "#idHomePageNewItem",
+  "Save": "input[type='button'][value='Save']",
+  "Cancel": "input[type='button'][value='Cancel']",
+  "EmployeeName": "input[type='text'][title='Employee Name']",
+  "ProjectName": "select[title='Project Name']",
+  "ProjectConsole": "UW Console - P0260",
+  "StartDate": "input[type='text'][title*='Start Date']",
+  "Days": [
+    "input[type='text'][title*='Monday']",
+    "input[type='text'][title*='Tuesday']",
+    "input[type='text'][title*='Wednesday']",
+    "input[type='text'][title*='Thursday']",
+    "input[type='text'][title*='Friday']"
+  ]
+}

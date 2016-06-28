@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DDN.Automated.Timesheets")]
+[assembly: AssemblyTitle("DDN.Automated.Timesheets.Service")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("DDN.Automated.Timesheets")]
+[assembly: AssemblyProduct("DDN.Automated.Timesheets.Service")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("899982dd-7860-43f5-9ea8-22a5e7bf54e7")]
+[assembly: Guid("f8d83bb0-88a1-4d55-86af-87944acce307")]
 
 // Version information for an assembly consists of the following four values:
 //
